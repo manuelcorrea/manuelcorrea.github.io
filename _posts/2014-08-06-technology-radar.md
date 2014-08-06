@@ -3,4 +3,4 @@ layout: post
 title:  "Technology Radar"
 ---
 
-http://mcorreacs.appspot.com/techradar/radar.html
+[Tech radar](http://mcorreacs.appspot.com/techradar/radar.html)
