@@ -3,7 +3,7 @@ title: Manuel Correa
 email: mcorrea.web@gmail.com
 description: "Manuel Correa github"
 baseurl: ""
-url: "http://manuelcorrea.github.io"
+url: "https://manuelcorrea.github.io"
 
 # Build settings
 markdown: kramdown
